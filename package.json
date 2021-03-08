@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "bluebird": "^2.9.13",
-    "chokidar": "^1.0.0",
+    "chokidar": "^3.0.0",
     "esprima": "^2.1.0",
     "fs-extra": "^0.18.0",
     "glob": "^5.0.1",
